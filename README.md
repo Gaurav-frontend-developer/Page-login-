@@ -1,3 +1,8 @@
+
+This is an open-source project. If you’d like to contribute, your support is always welcome!
+
+
+
 # GitHub Project - Modern Login/Signup Page
 
 A beautiful, modern login and signup page built with React and Vite, featuring a glassmorphism design with backdrop blur effects, animated elements, and a responsive layout.
